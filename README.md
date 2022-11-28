@@ -12,7 +12,7 @@
 2) Добавление новой задачи
 3) Отображение подробностей существующей задачи
 
-![1](https://user-images.githubusercontent.com/119200522/204354606-b794584f-88fd-4d03-bc8f-c9649c3b9f1d.png)
-![3](https://user-images.githubusercontent.com/119200522/204354621-a7e6e692-bf06-4e5a-9442-3ebbe7b1b88c.png)
-![2](https://user-images.githubusercontent.com/119200522/204354638-3997a377-c582-492a-8b3f-af09e2ea23be.png)
+![1](https://user-images.githubusercontent.com/119200522/204356002-2bfcd689-7bdd-4c20-8e99-69b1768720bc.png)
+![3](https://user-images.githubusercontent.com/119200522/204356036-5fbc7c7f-a282-4f30-a08d-c4b14bc62e7c.png)
+![2](https://user-images.githubusercontent.com/119200522/204356046-ed6d38e2-8f82-4aa5-9ef5-e6595c4008aa.png)
 
