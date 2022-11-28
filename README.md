@@ -1,13 +1,18 @@
 # PlannerBook
-Приложение-ежедневник для ведения списка дел с календарем
+Приложение-ежедневник для ведения списка дел с календарем.
+
+# Использованные библиотеки:
+1) SnapKit
+2) RealmSwift
+3) Swinject
+4) RxRealm
 
 # Реализованы три экрана:
 1) Список задач с календарем
-![1](https://user-images.githubusercontent.com/119200522/204350776-d3ce6aee-ab20-4254-8067-e583d22ab261.png)
-
 2) Добавление новой задачи
-![3](https://user-images.githubusercontent.com/119200522/204350929-b66dee3b-960c-446b-b33b-6cc08366ea8b.png)
-
 3) Отображение подробностей существующей задачи
-![2](https://user-images.githubusercontent.com/119200522/204350945-d59a4433-496d-45de-b51e-d7a1747f3c1c.png)
+
+![1](https://user-images.githubusercontent.com/119200522/204354606-b794584f-88fd-4d03-bc8f-c9649c3b9f1d.png) 
+![3](https://user-images.githubusercontent.com/119200522/204354621-a7e6e692-bf06-4e5a-9442-3ebbe7b1b88c.png)
+![2](https://user-images.githubusercontent.com/119200522/204354638-3997a377-c582-492a-8b3f-af09e2ea23be.png)
 
