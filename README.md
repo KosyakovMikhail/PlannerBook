@@ -5,7 +5,7 @@
 1) SnapKit
 2) RealmSwift
 3) Swinject
-4) RxRealm
+4) FSCalendar
 
 # Реализованы три экрана:
 1) Список задач с календарем
